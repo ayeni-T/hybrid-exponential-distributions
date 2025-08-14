@@ -20,7 +20,7 @@ bibliography: paper.bib
 
 # Summary
 
-The `hybrid-exponential-distributions` package provides Python implementations of four novel hybrid probability distributions involving exponential distributions, developed by Ogunwale et al. [@Ogunwale2019], Ogunwale et al. [@Ogunwale2022], Ayeni et al. [@Ayeni2023], and Adisa et al. [@Adisa2025]. These distributions Exponential-Gamma Distribution (EGD), Exponential-Exponential Distribution (EED), Rayleigh-Exponential-Gamma Distribution (REGD), and Exponential-Gamma-Rayleigh Distribution (EGRD) extend classical probability theory for reliability engineering, survival analysis, and risk assessment.
+The `hybrid-exponential-distributions` package provides Python implementations of four novel hybrid probability distributions involving exponential distributions, developed by Ogunwale et al. [@Ogunwale2019], Ogunwale et al. [@Ogunwale2022], Ayeni et al. [@Ayeni2023], and Adisa et al. [@Adisa2025]. These distributions, Exponential-Gamma Distribution (EGD), Exponential-Exponential Distribution (EED), Rayleigh-Exponential-Gamma Distribution (REGD), and Exponential-Gamma-Rayleigh Distribution (EGRD), extend classical probability theory for reliability engineering, survival analysis, and risk assessment.
 
 The package implements robust maximum likelihood estimation, model comparison tools, and specialized visualization capabilities, addressing the need for flexible distributions that model complex failure mechanisms and non-monotonic hazard rates.
 
